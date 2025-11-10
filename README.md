@@ -8,7 +8,7 @@ This portfolio showcases projects that combine **data analysis**, and **storytel
 ### 📂 Projects
 | Project | TL;DR | Description | Tools | Snapshot |
 |---------|-------|------------|-------|--------|
-| [Excel – Consumer Trends in Miami & PayPal Dominance](./excel_consumer_trends_miami_paypal) | Miami leads in consumer payments; PayPal dominates | Analyzed consumer behavior patterns to understand payment trends | Excel | [View Snapshot](./excel_consumer_trends_miami_paypal/reports/report.pdf) |
+| [Excel – Consumer Trends in Miami & PayPal Dominance](./excel_consumer_trends_miami_paypal) | Miami leads in consumer payments; PayPal dominates | Analyzed consumer behavior patterns to understand payment trends | Excel | [View Snapshot](./excel_consumer_trends_miami_paypal/reports/snapshot_consumer_trends.pdf) |
 
 
 ---
