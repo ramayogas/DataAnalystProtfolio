@@ -12,4 +12,6 @@ This portfolio showcases projects that combine **data analysis**, and **storytel
 ---
 👤 **Author:** Rama Yogaswara  
 🎯 **Focus:** UX Research • Data Analysis   
-📫 **Contact:** [LinkedIn](#https://www.linkedin.com/in/rama-yogaswara/)
+📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/ramayogas/) | [Email](mailto:ramayogas.w@gmail.com)
+
+
