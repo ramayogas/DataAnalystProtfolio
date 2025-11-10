@@ -3,7 +3,8 @@ Hi, I’m Rama — a UX-minded Data Analyst passionate about turning raw data in
 
 My background in UX design gives me a unique perspective in understanding human behavior through data. I’m focused on building insights that are not only statistically sound, but also meaningful and actionable for real users.
 
-This portfolio showcases projects that combine **data analysis**, and **storytelling** using tools such as **Excel**, **Python**, **SQL**, and **Power BI**.
+This portfolio showcases projects that combine **data analysis**, and **storytelling** using tools such as **Excel**, **Python**, **SQL**, and **Looker Studio**
+
 ### 📂 Projects
 | Project | Description | Tools |
 |----------|--------------|--------|
