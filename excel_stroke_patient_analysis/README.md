@@ -9,19 +9,19 @@ TBA
 
 ## Business Understanding
 1. Demographic Risk Factors
-  - Does gender affect stroke risk?
-  - Which age groups show the highest stroke incidence?
-  - Does residence type (urban/rural) differ in stroke likelihood?
+  <br> Does gender affect stroke risk?
+  <br> Which age groups show the highest stroke incidence?
+  <br> Does residence type (urban/rural) differ in stroke likelihood?
 2. Medical Conditions
-  - Is hypertension strongly associated with stroke?
-  - Is heart disease associated with higher stroke risk?
+  <br> Is hypertension strongly associated with stroke?
+  <br> Is heart disease associated with higher stroke risk?
 3. Lifestyle Factors
-  -  Is smoking status linked to higher stroke rates?
+  <br>  Is smoking status linked to higher stroke rates?
 4. Clinical Measurements
-  - Does BMI have a relationship with stroke incidence?
-  - Are elevated glucose levels associated with higher stroke risk?
+  <br> Does BMI have a relationship with stroke incidence?
+  <br> Are elevated glucose levels associated with higher stroke risk?
 5. Socioeconomic Factors
-  - Is the patient’s work type related to stroke risk?
+  <br> Is the patient’s work type related to stroke risk?
     
 ## Data Understanding 
 1. Imported raw CSV
